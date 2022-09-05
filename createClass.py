@@ -13,6 +13,7 @@ class MobileNoTo:
 # CREATING AN OBJECT
 
 obj = Mobile()
+print(obj.model)
 obj.getModel()
 
 obj2 = MobileNoTo('Samsung')
